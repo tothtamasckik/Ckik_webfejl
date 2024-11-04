@@ -1,0 +1,71 @@
+body {
+	background-color: red;
+	margin: 0px;
+}
+
+.header {
+	background-image: url("kepek/kerti_torpe_header.jpg");
+	height: 800px;
+	background-size: contain;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.header2 {
+	background-image: url("kepek/mano_header_2.jpg");
+	height: 800px;
+	background-size: contain;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.header p {
+	margin: 0px;
+	text-align: center;
+	font-size: 40px;
+	color: beige;
+	text-shadow: 3px 3px 5px black;
+	letter-spacing: 5px;
+}
+
+.mano1 {
+	background-color: grey; 
+	width: 50%;
+	height: 500px;
+	display: inline-block;
+	float: left;
+}
+
+.mano1 img {
+	width: 40%;
+	margin: auto;
+	display: block;
+}
+
+.mano2 {
+	background-color: white; 
+	width: 50%;
+	display: inline-block;
+	float: right;
+	height: 500px;
+}
+
+.mano2 img {
+	width: 300px;
+	margin: auto;
+	display: block;
+}
+
+.mano2 p, h2 {
+	margin: 40px;
+}
+
+
+
+/* szinek: */
+
+/* color rgb(0,0,0); */
+/* 1 Byte = 8 bit 00000000 */
+/* R: 8 bit G: 8 bit B: 8 bit */
+
+/* hexidecimalis: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F */
