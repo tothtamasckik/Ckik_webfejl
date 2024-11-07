@@ -60,7 +60,11 @@ body {
 	margin: 40px;
 }
 
-
+#mano3 {
+	height: 60%;
+	margin: auto;
+	display: block;
+}
 
 /* szinek: */
 
